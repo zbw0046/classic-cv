@@ -196,6 +196,6 @@ jQuery( document ).ready(function () {
     setFormValidationNotifyByAlert();
     
     // setGoogleMap( 40.712784, -74.005941, 13 ); // New York
-    setGoogleMap( 13.7246005, 100.6331108, 10 ); // Bangkok
+    // setGoogleMap( 13.7246005, 100.6331108, 10 ); // Bangkok
   }
 });

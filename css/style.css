@@ -75,7 +75,7 @@ a:hover {
 }
 .cv-section {
   margin: 0 auto;
-  padding: 60px 0;
+  padding: 30px 0;
   border-top: 1px solid #E0E0E0;
   position: relative;
   *zoom: 1;
@@ -443,8 +443,8 @@ a:hover {
 }
 .cv-item + .cv-item {
   border-top: 1px solid #E0E0E0;
-  margin-top: 48px;
-  padding-top: 48px;
+  margin-top:36px;
+  padding-top: 36px;
 }
 .cv-item.list {
   border: none;
